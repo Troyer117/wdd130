@@ -10,9 +10,12 @@ header {
 footer{
     background-color: gray;
 }
+div {
+    text-align: center;
+}
 .bottom {
     border-radius: 50%;
-    width: 27%;
+    max-width: 20%;
     margin: 30px;
     border: 20px solid rgb(68, 68, 68);
 }
