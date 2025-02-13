@@ -1,8 +1,11 @@
 body {
-    background-color: white;
+    background-color: gray;
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
 }
 header {
-    background-color: white;
+    background-color: gray;
 }
 #main {
     width: 100%;
