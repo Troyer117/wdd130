@@ -35,7 +35,7 @@ nav a {
     color: #0291df;
     text-decoration: none;
     padding: 35px;
-    background-color: #f0f806;
+    background-color: #f5fd07;
 }
 nav a:hover {
     background-color: #0291df;
@@ -89,7 +89,7 @@ h4 {
     color: #df7f2d;
 }
 .book, .join {
-    background-color: #f0f806;
+    background-color: #f5fd07;
     color: #0291df;
     text-decoration: none;
     font-size: 18px;
@@ -100,7 +100,7 @@ h4 {
 .card-img {
     border: 10px solid #df7f2d;
     transition: transform .5s;
-    box-shadow: 5px 5px 10px #f0f806;
+    box-shadow: 5px 5px 10px #f5fd07;
 }
 .card-img, .mountains {
     width: 100%;
@@ -121,10 +121,6 @@ h4 {
     grid-column: 8/10;
     grid-row: 2/3;
 }
-#background {
-    grid-column: 1/11;
-    grid-row: 4/9;
-}
 .mountains {
     grid-column: 2/7;
     grid-row: 5/8;
@@ -144,6 +140,8 @@ main section img{
 #background {
     height: 725px;
     background-color: #0291df;
+    grid-column: 1/11;
+    grid-row: 4/9;
 }
 .msg {
     background-color: white;
@@ -166,7 +164,7 @@ main section img{
     margin: 200px 0;
 }
 footer {
-    background-color: #f0f806;
+    background-color: #f5fd07;
     color: #0291df;
     padding: 25px 50px;
     margin-top: 200px;
