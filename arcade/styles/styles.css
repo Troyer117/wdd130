@@ -69,9 +69,9 @@ h1 {
     margin-top: 300px;
     background-color: rgb(33, 33, 218);
 }
-.computer, .arcade{
-    justify-self: center;
-    align-self: center;
+.computer-img, .arcade-img{
+    display: block;
+    margin: auto;
     margin-top: 170px;
     margin-bottom: 100px;
 }
@@ -108,10 +108,8 @@ footer a {
     padding: 20px;
 }
 footer a:hover {
-    background-color: rgb(117, 117, 117);
-    color: rgb(33, 33, 218);
-    margin-right: 70px;
-    margin-left: 70px;
+    margin-right: 120px;
+    margin-left: 120px;
 }
 footer p {
     font-size: 1.2em;
@@ -119,6 +117,7 @@ footer p {
     margin: auto;
 }
 footer p a:hover{
+    color: rgb(33, 33, 218);
     background-color: white;
     text-decoration: underline;
 }
