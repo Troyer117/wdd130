@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Sixtyfour&family=Ubuntu+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 body {
     background-color: black;
-    font-family: Ubuntu Mono, Sixtyfour, serif, 'Times New Roman';
+    font-family: Ubuntu Mono, Sixtyfour;
     font-size: 22px;
     padding: 0;
     margin: 0;
