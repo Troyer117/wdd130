@@ -148,3 +148,12 @@ footer p {
 footer p a:hover{
     text-decoration: underline;
 }
+@media screen and (max-width: 1000px) {
+    nav, footer {
+        flex-direction: column;
+    }
+    nav a {
+        display: block;
+        padding: 15px;
+    }
+}
