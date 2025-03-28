@@ -109,18 +109,11 @@ button {
 }
 #feedback {
     background-color: #0291df;
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    padding: .5em;
+    max-width: 100%;
     /* make this element invisible until we are ready for it */
     display: none;
     color: #f5fd07;
     font-size: 40px;
-}
-.moveDown {
-    margin-top: 4.5em;
 }
 footer {
     background-color: #f5fd07;
@@ -156,4 +149,5 @@ footer p a:hover{
         display: block;
         padding: 15px;
     }
+
 }
