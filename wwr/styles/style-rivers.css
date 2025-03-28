@@ -69,6 +69,7 @@ nav a:hover {
     grid-template-columns: repeat(10, 1fr);
     text-align: center;
     grid-column-gap: 200px;
+    max-width: 100%;
 }
 .home-grid h2{
     color: #df7f2d;
@@ -109,6 +110,7 @@ nav a:hover {
 }
 main p{
     color: #df7f2d;
+    max-width: 100%;
 }
 .grand, .salmon, .desolation {
     margin: 200px 0;
