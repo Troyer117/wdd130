@@ -137,6 +137,11 @@ footer p a:hover{
     }
     footer {
         margin-top: 25px;
-        padding: 50px;
+    }
+    footer p {
+        padding: 25px;
+    }
+    .instagram, .facebook, .twitter {
+        padding: 10px;
     }
 }
