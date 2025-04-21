@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Sixtyfour&family=Ubuntu+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 body {
     background-color: black;
-    font-family: Ubuntu Mono, Sixtyfour;
+    font-family: 'Ubuntu Mono', Sixtyfour;
     font-size: 22px;
     padding: 0;
     margin: 0;
@@ -44,7 +44,7 @@ nav a:hover {
 }
 h1 {
     color: white;
-    font-family: Sixtyfour;
+    font-family: 'Sixtyfour', 'Ubuntu Mono';
     font-size: 50px;
 }
 #hero {
@@ -69,7 +69,7 @@ h1 {
     grid-template-columns: repeat(3, 1fr);
     color: white;
     align-items: center;
-    text-align: center
+    text-align: center;
 }
 .shop-img {
         max-width: 80%;
